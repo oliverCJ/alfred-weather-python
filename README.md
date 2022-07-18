@@ -8,6 +8,7 @@
 	- requests 	
 
 ### 下载
+下载地址：[点击前往](https://github.com/oliverCJ/alfred-weather-python/releases/tag/v1.0.1)
 
 ### 安装使用
 1.  右键以Alfred打开，插件将自动安装到Alfred的Workflow中
@@ -47,8 +48,8 @@
 	该指令无参数，会自动根据前一步中alt+回车设置的默认地区，直接查询对应区域天气
 
 ### 使用展示
-![](https://github.com/oliverCJ/alfred-weather-python/blob/master/location.png)
+![地区查询](https://github.com/oliverCJ/alfred-weather-python/blob/master/location.png)
 
-![](https://github.com/oliverCJ/alfred-weather-python/blob/master/weather.png)
+![天气查询](https://github.com/oliverCJ/alfred-weather-python/blob/master/weather.png)
 
-![](https://github.com/oliverCJ/alfred-weather-python/blob/master/current.png)
+![当前天气](https://github.com/oliverCJ/alfred-weather-python/blob/master/current.png)
