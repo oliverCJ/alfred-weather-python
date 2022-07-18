@@ -47,8 +47,8 @@
 	该指令无参数，会自动根据前一步中alt+回车设置的默认地区，直接查询对应区域天气
 
 ### 使用展示
-![](location.png)
+![](https://github.com/oliverCJ/alfred-weather-python/blob/master/location.png)
 
-![](weather.png)
+![](https://github.com/oliverCJ/alfred-weather-python/blob/master/weather.png)
 
-![](current.png)
+![](https://github.com/oliverCJ/alfred-weather-python/blob/master/current.png)
