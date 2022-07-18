@@ -8,7 +8,8 @@
 	- requests 	
 
 ### 下载
-下载地址：[点击前往](https://github.com/oliverCJ/alfred-weather-python/releases/tag/v1.0.1)
+下载地址：[点击前往](https://github.com/oliverCJ/alfred-weather-python/releases)
+
 
 ### 安装使用
 1.  右键以Alfred打开，插件将自动安装到Alfred的Workflow中
